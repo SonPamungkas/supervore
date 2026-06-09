@@ -1,4 +1,4 @@
-# FS-20+ Vortex Enhancement Mod
+# FS-20+ Super Vortex Enhanced Mod
 <img width="1920" height="1080" alt="supervore" src="https://github.com/user-attachments/assets/15c2b73a-0873-413b-94d3-b44c61b38961" />
 
 ## Description
